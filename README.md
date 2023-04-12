@@ -1,2 +1,2 @@
 # Java
-Java Challenger
+Simple java application
